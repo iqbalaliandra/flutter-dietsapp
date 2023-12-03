@@ -1,4 +1,4 @@
-# tutorial2
+# dietsapp
 
 A new Flutter project.
 
